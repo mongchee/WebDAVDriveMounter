@@ -1,0 +1,6 @@
+# WebDAV Drive Mounter는 Python 3.8+ 표준 라이브러리(tkinter, urllib, subprocess, ctypes, winreg 등)만으로 
+# 추가 외부 패키지 설치 없이 즉시 실행 가능합니다.
+
+# (선택 사항) 시스템 트레이 아이콘 기능 확장 시:
+# pystray>=0.19.5
+# Pillow>=10.0.0

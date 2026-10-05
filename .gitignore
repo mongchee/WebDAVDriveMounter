@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+dist_temp/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Sensitive user profiles & credentials
+profiles.json
+profiles.json.bak
+*.key
+*.pem
+*.token
+tools/rclone.conf
+*.conf
+
+# Cache & temporary files
+vfs_cache/
+*.log
+
+# PyInstaller / Build artifacts
+*.manifest
+warn-*.txt
+xref-*.html
+
+# IDE & Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
